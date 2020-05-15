@@ -15,3 +15,8 @@ The following variables shall be treated as **target variable**,one at a time du
 - isForcedMilitary	
 - isOrganRemoval	
 - isSlaveryAndPractices
+
+##### Tasks
+- [x] create separate data sets for date ranges [2009,2016] & [2016,2019]  
+- [ ] create models with *isSexAndLabour* as target variable for both date ranges as mentioned above.  	
+- [ ] create models with *isSexualExploit* as target variable for both date ranges as mentioned above. 
