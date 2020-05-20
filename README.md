@@ -6,7 +6,7 @@ Source: Counter-Trafficking Data Collaborative (CTDC), [May, 2020]
 
 
 ### Approach
-The following variables shall be treated as **target variable** one at a time during the analysis  
+The following [variables](https://www.ctdatacollaborative.org/sites/default/files/CTDC%20codebook%20v6_0.pdf) shall be treated as **target variable** one at a time during the analysis  
 - isSexAndLabour	
 - isForcedLabour  
 - isSexualExploit	
@@ -14,7 +14,7 @@ The following variables shall be treated as **target variable** one at a time du
 - isForcedMarriage	
 - isForcedMilitary	
 - isOrganRemoval	
-- isSlaveryAndPractices
+- isSlaveryAndPractices  
 ![Image description](./images/download.png)
 
 There seem to be 2 trends in the number of cases registered, one from 2009 until 2016 and the other from 2016 until 2019.  
