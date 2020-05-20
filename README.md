@@ -6,7 +6,7 @@ Source: Counter-Trafficking Data Collaborative (CTDC), [May, 2020]
 
 
 ### Approach
-The following variables shall be treated as **target variable**,one at a time during the analysis  
+The following variables shall be treated as **target variable** one at a time during the analysis  
 - isSexAndLabour	
 - isForcedLabour  
 - isSexualExploit	
@@ -18,7 +18,8 @@ The following variables shall be treated as **target variable**,one at a time du
 ![Image description](./images/download.png)
 
 There seem to be 2 trends in the number of cases registered, one from 2009 until 2016 and the other from 2016 until 2019.  
-It makes sense to analyse data with an increasing trend [2009,2016], finding factors that made the trend behave in the way it does, and likewise for the decreasing trend [2016,2019]. However, the original data set contains records from 2002, but for this analysis data from 2009 until 2019 is considered due to the trends observed as aforementioned.  
+It makes sense to analyse data with an increasing trend [2009,2016], finding factors that made the trend behave in the way it does, and likewise for the decreasing trend [2016,2019].  
+Although [original](https://www.ctdatacollaborative.org/dataset/resource/511adcb7-b1a2-4cc7-bf2f-0960d43a49cc) data set contains records from 2002, for this analysis data from 2009 until 2019 is considered due to the trends observed as aforementioned.  
 
 ##### Tasks
 - [x] create separate data sets for date ranges [2009,2016] & [2016,2019]  
