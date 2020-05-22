@@ -1,4 +1,4 @@
-This repository is an attempt to generate insights about human trafficking by analysing data from Counter Trafficking Data Collaborative (CTDC),a global data hub on human trafficking, and building statistical/machine learning models.  
+This repository is an attempt to generate insights about human trafficking by analysing data from Counter Trafficking Data Collaborative (CTDC),a global data hub on human trafficking and building statistical/machine learning models.  
 [This](./work.ipynb) notebook contains analysis on CTDC data.  
 
 **Please agree** to the terms & conditions at https://www.ctdatacollaborative.org/terms-use  
@@ -17,9 +17,9 @@ The following [variables](https://www.ctdatacollaborative.org/sites/default/file
 - isSlaveryAndPractices  
 ![Image description](./images/download.png)
 
-There seem to be 2 trends in the number of cases registered, one from 2009 until 2016 and the other from 2016 until 2019.  
-It makes sense to analyse data with an increasing trend [2009,2016], finding factors that made the trend behave in the way it does, and likewise for the decreasing trend [2016,2019].  
-Although [original](https://www.ctdatacollaborative.org/dataset/resource/511adcb7-b1a2-4cc7-bf2f-0960d43a49cc) data set contains records from 2002, for this analysis data from 2009 until 2019 is considered due to the trends observed as aforementioned.  
+The above graph shows 2 prominent trends in the number of cases registered, one from 2009 until 2016 and the other from 2016 until 2019.  
+It makes sense to analyse data with an increasing trend [2009,2016] and finding factors that made the trend behave the way it did, and likewise for the decreasing trend [2016,2019].  
+Although [original](https://www.ctdatacollaborative.org/dataset/resource/511adcb7-b1a2-4cc7-bf2f-0960d43a49cc) data set contains records from 2002, for this analysis data from 2009 until 2019 is considered due to the jutting trends observed as aforementioned.  
 
 #### Tasks
 - [x] create separate data sets for date ranges [2009,2016] & [2016,2019]  
