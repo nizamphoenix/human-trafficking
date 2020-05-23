@@ -8,6 +8,9 @@ Source: Counter-Trafficking Data Collaborative (CTDC), [May, 2020]
 ### Approach
 The following [variables](https://www.ctdatacollaborative.org/sites/default/files/CTDC%20codebook%20v6_0.pdf) shall be treated as **target variable** one at a time during the analysis  
 - isSexAndLabour	
+- isForcedLabour  
+- isSexualExploit	
+
  
 ![Image description](./images/download.png)
 
