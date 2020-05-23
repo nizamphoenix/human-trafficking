@@ -8,13 +8,7 @@ Source: Counter-Trafficking Data Collaborative (CTDC), [May, 2020]
 ### Approach
 The following [variables](https://www.ctdatacollaborative.org/sites/default/files/CTDC%20codebook%20v6_0.pdf) shall be treated as **target variable** one at a time during the analysis  
 - isSexAndLabour	
-- isForcedLabour  
-- isSexualExploit	
-- isOtherExploit	
-- isForcedMarriage	
-- isForcedMilitary	
-- isOrganRemoval	
-- isSlaveryAndPractices  
+ 
 ![Image description](./images/download.png)
 
 The above graph shows 2 prominent trends in the number of cases registered, one from 2009 until 2016 and the other from 2016 until 2019.  
