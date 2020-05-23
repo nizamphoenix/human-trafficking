@@ -10,6 +10,11 @@ The following [variables](https://www.ctdatacollaborative.org/sites/default/file
 - isSexAndLabour	
 - isForcedLabour  
 - isSexualExploit	
+- isOtherExploit	
+- isForcedMarriage	
+- isForcedMilitary	
+- isOrganRemoval	
+- isSlaveryAndPractices 
 
  
 ![Image description](./images/download.png)
