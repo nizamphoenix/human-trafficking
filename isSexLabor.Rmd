@@ -1,0 +1,23 @@
+---
+title: "sex_labor_09to16"
+output: html_notebook
+---
+
+This work is a continuation of sex_labor_09to16 notebook, containing statistical modeling. [R Markdown](http://rmarkdown.rstudio.com) 
+
+
+```{r}
+data<-read.csv('./Desktop/sex_labour_data_09to16.csv')
+dim(data)
+head(data)
+```
+```{r}
+data$target<-factor(data$target)
+is.factor(data$target)
+```
+Now, fitting a logistic regression model with glm()
+```{r}
+model1<-glm(target~yearOfRegistration*gender*majorityStatus*citizenship*cause*CountryOfExploitation,family = binomial(link =logit),data=data,maxit=100)
+summary(model1)
+```
+
